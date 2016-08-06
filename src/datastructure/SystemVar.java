@@ -10,6 +10,8 @@ public class SystemVar {
             System.out.println(entry);
         }
 
+        System.out.println("done!");
+
 
     }
 }
